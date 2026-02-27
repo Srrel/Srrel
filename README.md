@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Lerry John 👋
 
-<!--
-**Srrel/Srrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer from Manila, Philippines 🇵🇭  
+Specializing in **Laravel** and **React**, building enterprise-grade systems 
+for logistics, HR, and e-commerce domains.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Backend**
+PHP · Laravel · WordPress · WooCommerce · REST API · Python · C# (.NET / WinForms)
+
+**Frontend**
+React (Vite · Next.js) · JavaScript · TypeScript · HTML · CSS
+
+**Database**
+MySQL · Database Design · Query Optimization
+
+**DevOps & Deployment**
+Digital Ocean · Laravel Forge · Git · GitHub · Apache · Docker
+
+**Desktop & Integration**
+Tauri · ZKTeco Biometric Integration · C# WinForms
+
+---
+
+## 💼 What I Build
+
+- 🚚 **Freight & Logistics Systems** — end-to-end platforms with booking, 
+  shipment tracking, billing, and warehouse management
+- 👥 **HRIS Platforms** — employee records, attendance monitoring, 
+  and biometric device integrations
+- 🛒 **E-commerce Solutions** — WooCommerce stores with REST API 
+  integrations and inventory management
+- 🖥️ **Desktop Applications** — Tauri + React and C# WinForms apps 
+  for internal business workflows
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lersss-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lersss)
