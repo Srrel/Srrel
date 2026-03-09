@@ -1,7 +1,7 @@
 # Hi, I'm Lerry John 👋
 
 Full-stack web developer from Manila, Philippines 🇵🇭  
-Specializing in **Laravel**, **DiangoRest** and **React**, building enterprise-grade systems 
+Specializing in **Laravel**, **Django REST** and **React**, building enterprise-grade systems 
 for logistics, HR, and e-commerce domains.
 
 ---
@@ -9,7 +9,7 @@ for logistics, HR, and e-commerce domains.
 ## 🛠️ Tech Stack
 
 **Backend**
-PHP · Laravel · WordPress · WooCommerce · REST API · Python · C# (.NET / WinForms)
+PHP · Laravel · WordPress · WooCommerce · REST API · Python · Django REST · C# (.NET / WinForms)
 
 **Frontend**
 React (Vite · Next.js) · JavaScript · TypeScript · HTML · CSS
