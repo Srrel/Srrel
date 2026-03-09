@@ -1,7 +1,7 @@
 # Hi, I'm Lerry John 👋
 
 Full-stack web developer from Manila, Philippines 🇵🇭  
-Specializing in **Laravel** and **React**, building enterprise-grade systems 
+Specializing in **Laravel**, **DiangoRest** and **React**, building enterprise-grade systems 
 for logistics, HR, and e-commerce domains.
 
 ---
